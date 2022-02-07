@@ -1,0 +1,7 @@
+C:\Users\deval\source\repos\C#\practical_07\practical_07\bin\Debug\practical_07.exe.config
+C:\Users\deval\source\repos\C#\practical_07\practical_07\bin\Debug\practical_07.exe
+C:\Users\deval\source\repos\C#\practical_07\practical_07\bin\Debug\practical_07.pdb
+C:\Users\deval\source\repos\C#\practical_07\practical_07\obj\Debug\practical_07.csproj.AssemblyReference.cache
+C:\Users\deval\source\repos\C#\practical_07\practical_07\obj\Debug\practical_07.csproj.CoreCompileInputs.cache
+C:\Users\deval\source\repos\C#\practical_07\practical_07\obj\Debug\practical_07.exe
+C:\Users\deval\source\repos\C#\practical_07\practical_07\obj\Debug\practical_07.pdb

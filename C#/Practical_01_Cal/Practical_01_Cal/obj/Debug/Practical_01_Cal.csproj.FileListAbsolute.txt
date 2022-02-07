@@ -1,0 +1,14 @@
+C:\Users\deval\source\repos\Practical_01_Cal\Practical_01_Cal\bin\Debug\Practical_01_Cal.exe.config
+C:\Users\deval\source\repos\Practical_01_Cal\Practical_01_Cal\bin\Debug\Practical_01_Cal.exe
+C:\Users\deval\source\repos\Practical_01_Cal\Practical_01_Cal\bin\Debug\Practical_01_Cal.pdb
+C:\Users\deval\source\repos\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.csproj.AssemblyReference.cache
+C:\Users\deval\source\repos\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.csproj.CoreCompileInputs.cache
+C:\Users\deval\source\repos\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.exe
+C:\Users\deval\source\repos\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.pdb
+C:\Users\deval\source\repos\C#\Practical_01_Cal\Practical_01_Cal\bin\Debug\Practical_01_Cal.exe.config
+C:\Users\deval\source\repos\C#\Practical_01_Cal\Practical_01_Cal\bin\Debug\Practical_01_Cal.exe
+C:\Users\deval\source\repos\C#\Practical_01_Cal\Practical_01_Cal\bin\Debug\Practical_01_Cal.pdb
+C:\Users\deval\source\repos\C#\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.csproj.AssemblyReference.cache
+C:\Users\deval\source\repos\C#\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.csproj.CoreCompileInputs.cache
+C:\Users\deval\source\repos\C#\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.exe
+C:\Users\deval\source\repos\C#\Practical_01_Cal\Practical_01_Cal\obj\Debug\Practical_01_Cal.pdb
