@@ -1,6 +1,0 @@
-C:\Users\deval\source\repos\C#\practical_05\practical_05\bin\Debug\practical_05.exe.config
-C:\Users\deval\source\repos\C#\practical_05\practical_05\bin\Debug\practical_05.exe
-C:\Users\deval\source\repos\C#\practical_05\practical_05\bin\Debug\practical_05.pdb
-C:\Users\deval\source\repos\C#\practical_05\practical_05\obj\Debug\practical_05.csproj.CoreCompileInputs.cache
-C:\Users\deval\source\repos\C#\practical_05\practical_05\obj\Debug\practical_05.exe
-C:\Users\deval\source\repos\C#\practical_05\practical_05\obj\Debug\practical_05.pdb

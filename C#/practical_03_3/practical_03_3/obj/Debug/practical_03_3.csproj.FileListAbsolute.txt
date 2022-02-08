@@ -1,7 +1,0 @@
-C:\Users\deval\source\repos\C#\practical_03_3\practical_03_3\bin\Debug\practical_03_3.exe.config
-C:\Users\deval\source\repos\C#\practical_03_3\practical_03_3\bin\Debug\practical_03_3.exe
-C:\Users\deval\source\repos\C#\practical_03_3\practical_03_3\bin\Debug\practical_03_3.pdb
-C:\Users\deval\source\repos\C#\practical_03_3\practical_03_3\obj\Debug\practical_03_3.csproj.AssemblyReference.cache
-C:\Users\deval\source\repos\C#\practical_03_3\practical_03_3\obj\Debug\practical_03_3.csproj.CoreCompileInputs.cache
-C:\Users\deval\source\repos\C#\practical_03_3\practical_03_3\obj\Debug\practical_03_3.exe
-C:\Users\deval\source\repos\C#\practical_03_3\practical_03_3\obj\Debug\practical_03_3.pdb

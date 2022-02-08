@@ -1,7 +1,0 @@
-C:\Users\deval\source\repos\C#\practical_02\practical_02\bin\Debug\practical_02.exe.config
-C:\Users\deval\source\repos\C#\practical_02\practical_02\bin\Debug\practical_02.exe
-C:\Users\deval\source\repos\C#\practical_02\practical_02\bin\Debug\practical_02.pdb
-C:\Users\deval\source\repos\C#\practical_02\practical_02\obj\Debug\practical_02.csproj.AssemblyReference.cache
-C:\Users\deval\source\repos\C#\practical_02\practical_02\obj\Debug\practical_02.csproj.CoreCompileInputs.cache
-C:\Users\deval\source\repos\C#\practical_02\practical_02\obj\Debug\practical_02.exe
-C:\Users\deval\source\repos\C#\practical_02\practical_02\obj\Debug\practical_02.pdb
